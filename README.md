@@ -17,5 +17,6 @@ Repositório da Profa Renata para receber os Projetos dos aluno de PI-IV
 - [Time14] https://github.com/leodionel/ES-PI4-2026-T2-G14
 - [Time15] https://github.com/GabrielHpuc/PI_IV_TIME_15
 - [Time16] https://github.com/GabrielHP2/ES-PI4-2026-T2-G16
+- [Time 20] https://github.com/kayogcc/PI_IV-TIME-20-
 - [Time 29] https://github.com/CrisFava/PI_IV-TIME-29
 - [Time31] https://github.com/lucaxaviers/PI_IV-TIME-31
