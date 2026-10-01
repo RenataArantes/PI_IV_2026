@@ -21,7 +21,7 @@ Repositório da Profa Renata para receber os Projetos dos aluno de PI-IV
 - [Time 19] https://github.com/rafaelmvalente/PI_IV-TIME-19
 - [Time 20] https://github.com/kayogcc/PI_IV-TIME-20-
 - [Time 21] https://github.com/felipe-silva1/PI_IV-TIME21
-- [Time 22] github.com/gabrielsuj/PI_IV-TIME-22
+- [Time 22] https://github.com/gabrielsuj/PI_IV-TIME-22
 - [Time 23] https://github.com/Cadzss/PI_IV-TIME-23
 - [Time 24] https://github.com/mariaoleto/PI_IV-TIME-24
 - [Time 25] https://github.com/FelipecoBunny/PI_IV-TIME-25
